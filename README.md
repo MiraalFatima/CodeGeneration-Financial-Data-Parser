@@ -171,9 +171,9 @@ All are listed in `requirements.txt`.
 
 ## 📬 Contact
 
-Maintained by **Bilal Aslam**  
-📧 [bilal.aslam.338658@gmail.com](mailto:bilal.aslam.338658@gmail.com)  
-🌐 [github.com/bforbilal2003](https://github.com/bforbilal2003)
+Maintained by **Miraal Fatima**  
+📧 miraal.fatima.297@gmail.com
+🌐 https://github.com/MiraalFatima
 
 ---
 
