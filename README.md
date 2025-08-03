@@ -191,4 +191,4 @@ This project is open to ideas for expanding:
 
 This repo is a complete demonstration of data engineering skills applied to unstructured financial Excel files — transforming messy, raw data into structured, queryable datasets.
 
-Built with ❤️ by Bilal Aslam.
+Built with ❤️ by Miraal Fatima
